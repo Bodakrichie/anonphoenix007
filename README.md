@@ -16,15 +16,13 @@
 
 
 
-- 😊 I’m Taira Makino
+- 😊 I’m BODAK RICHIE 
 - 👦🏻 Age is unknown
 - 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
 - 🌱 Currently a student at unknown
 - 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
-- 📫 Email me via phoenixgibson007@gmail.com to contact
-- 🤩 Follow me on Instagram https://www.instagram.com/anonphoenix007/
-- 💬 Text me on telegram https://t.me/anonphoenix007
-- ✉️ Text me on WhatsApp https://wa.me/2347080968564
+- 📫 Email me via bodakrichie@gmail.com to contact
+- ✉️ Text me on WhatsApp https://wa.me/2348023662322
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anonphoenix007)](https://github.com/ryo-ma/github-profile-trophy)
